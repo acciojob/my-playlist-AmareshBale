@@ -15,7 +15,8 @@ h2{
 	text-align:center;
 }
 .player_one{
-	background:rgb(255, 255, 255);
+	background:white;
+	color:white;
 	padding:10px;
 	border-radius:5px;
 }
